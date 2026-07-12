@@ -21,14 +21,6 @@ A data cleaning project using Python (Pandas) and SQL.
 - SQL
 - Jupyter Notebook (optional)
 
-#requirements.txt
-
-- numpy
-- pandas
-- urllib
-- pyodbc
-- sqlalchemy
-
 #Outputs
 
 - Cleaned CSV dataset
