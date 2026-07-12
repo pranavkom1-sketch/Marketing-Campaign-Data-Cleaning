@@ -1,1 +1,7 @@
+#requirements.txt
 
+- numpy
+- pandas
+- urllib
+- pyodbc
+- sqlalchemy
